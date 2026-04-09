@@ -1,0 +1,4 @@
+fastapi
+PyMySQL
+pycountry
+uvicorn
